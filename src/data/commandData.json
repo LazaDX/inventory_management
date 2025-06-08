@@ -1,0 +1,50 @@
+[
+    {
+        "label": "Jan",
+        "commande": 400
+    },
+    {
+        "label": "Fev",
+        "commande": 300
+    },
+    {
+        "label": "Mar",
+        "commande": 200
+    },
+    {
+        "label": "Avr",
+        "commande": 278
+    },
+    {
+        "label": "Mai",
+        "commande": 189
+    },
+    {
+        "label": "Juin",
+        "commande": 239
+    },
+    {
+        "label": "Juil",
+        "commande": 349
+    },
+    {
+        "label": "Aout",
+        "commande": 278
+    },
+    {
+        "label": "Sep",
+        "commande": 189
+    },
+    {
+        "label": "Oct",
+        "commande": 239
+    },
+    {
+        "label": "Nov",
+        "commande": 349
+    },
+    {
+        "label": "Dec",
+        "commande": 278
+    }
+]
